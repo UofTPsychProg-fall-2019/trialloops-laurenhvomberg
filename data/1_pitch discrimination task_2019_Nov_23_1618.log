@@ -1,0 +1,113 @@
+10.8660 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([1., 1., 1.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x137718cf8>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x13776b710>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.8661 	EXP 	window1: recordFrameIntervals = False
+11.0317 	EXP 	window1: recordFrameIntervals = True
+11.2152 	EXP 	window1: recordFrameIntervals = False
+12.5747 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.8356 	EXP 	Sound sound1_1 set volume 1.000
+12.8359 	EXP 	Sound sound1_2 set volume 1.000
+12.9302 	EXP 	Created HigherLower_msg1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.0, italic=False, languageStyle='LTR', name='HigherLower_msg1', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+13.1755 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+13.3492 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.5614 	EXP 	Sound sound2_1 set volume 1.000
+13.5615 	EXP 	Sound sound2_2 set volume 1.000
+13.5941 	EXP 	Created HigherLower_msg2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='HigherLower_msg2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.8128 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+13.8321 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='Thank you for participating in the experiment.', units='height', win=Window(...), wrapWidth=1)
+13.8488 	EXP 	text: autoDraw = True
+15.0651 	EXP 	Imported practice_stimuli.xlsx as conditions, 8 conditions, 3 params
+15.0685 	EXP 	Created sequence: fullRandom, trialTypes=8, nReps=1, seed=None
+15.0690 	EXP 	New trial (rep=0, index=0): OrderedDict([('sound1', 'sound/medMusic40.wav'), ('sound2', 'sound/medMusic42.wav'), ('corrAns', '/')])
+15.5588 	EXP 	window1: mouseVisible = True
+9.8588 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([1., 1., 1.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x1378ded68>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1374ca780>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.8588 	EXP 	window1: recordFrameIntervals = False
+10.0248 	EXP 	window1: recordFrameIntervals = True
+10.2083 	EXP 	window1: recordFrameIntervals = False
+11.4639 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.7191 	EXP 	Sound sound1_1 set volume 1.000
+11.7194 	EXP 	Sound sound1_2 set volume 1.000
+11.8130 	EXP 	Created HigherLower_msg1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.0, italic=False, languageStyle='LTR', name='HigherLower_msg1', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+12.0483 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+12.2207 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.4339 	EXP 	Sound sound2_1 set volume 1.000
+12.4340 	EXP 	Sound sound2_2 set volume 1.000
+12.4681 	EXP 	Created HigherLower_msg2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='HigherLower_msg2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.6875 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+12.7060 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='Thank you for participating in the experiment.', units='height', win=Window(...), wrapWidth=1)
+12.7256 	EXP 	text: autoDraw = True
+14.2949 	EXP 	Imported practice_stimuli.xlsx as conditions, 8 conditions, 3 params
+14.2957 	EXP 	Created sequence: fullRandom, trialTypes=8, nReps=1, seed=None
+14.2962 	EXP 	New trial (rep=0, index=0): OrderedDict([('sound1', 'sound/medMusic40.wav'), ('sound2', 'sound/medMusic38.wav'), ('corrAns', 'z')])
+14.4578 	DATA 	Keypress: space
+14.4750 	EXP 	text: autoDraw = False
+14.4750 	EXP 	HigherLower_msg1: color = 'black (named)'
+14.4750 	EXP 	HigherLower_msg1: pos = array([0., 0.])
+14.4750 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+14.4750 	EXP 	HigherLower_msg1: font = 'Arial'
+14.4750 	EXP 	HigherLower_msg1: height = 0.15
+14.4750 	EXP 	text_3: text = '1/8'
+14.4750 	EXP 	HigherLower_msg1: autoDraw = True
+14.4750 	EXP 	text_3: autoDraw = True
+14.4750 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+18.7803 	EXP 	New trial (rep=0, index=1): OrderedDict([('sound1', 'sound/medMusic40.wav'), ('sound2', 'sound/medMusic44.wav'), ('corrAns', '/')])
+18.8293 	DATA 	Keypress: z
+18.8419 	EXP 	HigherLower_msg1: autoDraw = False
+18.8419 	EXP 	text_3: autoDraw = False
+18.8419 	EXP 	HigherLower_msg1: color = 'black (named)'
+18.8419 	EXP 	HigherLower_msg1: pos = array([0., 0.])
+18.8419 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+18.8419 	EXP 	HigherLower_msg1: font = 'Arial'
+18.8419 	EXP 	HigherLower_msg1: height = 0.15
+18.8419 	EXP 	text_3: text = '2/8'
+18.8419 	EXP 	HigherLower_msg1: autoDraw = True
+18.8419 	EXP 	text_3: autoDraw = True
+18.8419 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+21.3958 	DATA 	Keypress: slash
+22.9455 	DATA 	Keypress: space
+26.0789 	DATA 	Keypress: slash
+27.6014 	DATA 	Keypress: slash
+27.9288 	DATA 	Keypress: space
+28.8620 	EXP 	New trial (rep=0, index=2): OrderedDict([('sound1', 'sound/medMusic40.wav'), ('sound2', 'sound/medMusic32.wav'), ('corrAns', 'z')])
+28.9164 	DATA 	Keypress: z
+28.9258 	EXP 	HigherLower_msg1: autoDraw = False
+28.9258 	EXP 	text_3: autoDraw = False
+28.9258 	EXP 	HigherLower_msg1: color = 'black (named)'
+28.9258 	EXP 	HigherLower_msg1: pos = array([0., 0.])
+28.9258 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+28.9258 	EXP 	HigherLower_msg1: font = 'Arial'
+28.9258 	EXP 	HigherLower_msg1: height = 0.15
+28.9258 	EXP 	text_3: text = '3/8'
+28.9258 	EXP 	HigherLower_msg1: autoDraw = True
+28.9258 	EXP 	text_3: autoDraw = True
+28.9258 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+32.6954 	EXP 	New trial (rep=0, index=3): OrderedDict([('sound1', 'sound/medMusic40.wav'), ('sound2', 'sound/medMusic34.wav'), ('corrAns', 'z')])
+32.7475 	DATA 	Keypress: z
+32.7596 	EXP 	HigherLower_msg1: autoDraw = False
+32.7596 	EXP 	text_3: autoDraw = False
+32.7596 	EXP 	HigherLower_msg1: color = 'black (named)'
+32.7596 	EXP 	HigherLower_msg1: pos = array([0., 0.])
+32.7596 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+32.7596 	EXP 	HigherLower_msg1: font = 'Arial'
+32.7596 	EXP 	HigherLower_msg1: height = 0.15
+32.7596 	EXP 	text_3: text = '4/8'
+32.7596 	EXP 	HigherLower_msg1: autoDraw = True
+32.7596 	EXP 	text_3: autoDraw = True
+32.7596 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+35.1957 	DATA 	Keypress: z
+36.3124 	DATA 	Keypress: slash
+36.9952 	EXP 	New trial (rep=0, index=4): OrderedDict([('sound1', 'sound/medMusic40.wav'), ('sound2', 'sound/medMusic42.wav'), ('corrAns', '/')])
+37.0483 	DATA 	Keypress: z
+37.0605 	EXP 	HigherLower_msg1: autoDraw = False
+37.0605 	EXP 	text_3: autoDraw = False
+37.0605 	EXP 	HigherLower_msg1: color = 'black (named)'
+37.0605 	EXP 	HigherLower_msg1: pos = array([0., 0.])
+37.0605 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+37.0605 	EXP 	HigherLower_msg1: font = 'Arial'
+37.0605 	EXP 	HigherLower_msg1: height = 0.15
+37.0605 	EXP 	text_3: text = '5/8'
+37.0605 	EXP 	HigherLower_msg1: autoDraw = True
+37.0605 	EXP 	text_3: autoDraw = True
+37.0605 	EXP 	HigherLower_msg1: text = 'Was the second tone higher ("/") or lower ("z") than the first tone?\n\n'
+42.7794 	DATA 	Keypress: slash
+43.7972 	DATA 	Keypress: slash
+45.0650 	DATA 	Keypress: escape
+45.5755 	EXP 	window1: mouseVisible = True
